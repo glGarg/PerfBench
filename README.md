@@ -15,7 +15,7 @@ Each instance id follows the pattern: `{owner}_{repo}__{issue_id}__{dotnet_versi
 
 E.g.:
 - `aarnott_nerdbank.messagepack__155__9.0` - Async serialization optimization
-- `angusjohnson_clipper2__35__6.0` - Replacing foreach with for loops
+- `angusjohnson_clipper2__35__6.0` - Class to struct conversion
 - etc.
 
 ## Citation
